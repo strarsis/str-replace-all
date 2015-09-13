@@ -1,0 +1,24 @@
+{
+  "name": "str-replace-all",
+  "version": "0.0.1",
+  "description": "Replaces all occurences of a string in another string.",
+  "license": "MIT",
+  "repository": "strarsis/str-replace-all",
+  "author": {
+    "name": "strarsis",
+    "email": "strarsis@gmail.com",
+    "url": "https://github.com/strarsis/str-replace-all"
+  },
+  "keywords": [
+    "string",
+    "str",
+    "replace",
+    "all",
+    "global"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "escape-string-regexp": "^1.0.3"
+  },
+  "devDependencies": {}
+}
