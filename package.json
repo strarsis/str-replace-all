@@ -17,6 +17,9 @@
     "global"
   ],
   "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
   "dependencies": {
     "escape-string-regexp": "^1.0.3"
   },
