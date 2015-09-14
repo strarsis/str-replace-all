@@ -25,6 +25,6 @@ npm install --save str-replace-all
 
 ````
 var strReplaceAll = require('str-replace-all');
-strReplaceAll('lorem ipsum', 'ipsum', 'loren');
-  => "lorem lorem"
+strReplaceAll('lorem ipsum lorem ipsum lorem ipsum', 'ipsum', 'lorem');
+  => "lorem lorem lorem lorem lorem lorem"
 ````
