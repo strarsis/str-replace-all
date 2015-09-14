@@ -4,23 +4,20 @@ Replaces all occurences of a string in another string.
 
 
 Arguments
-=========
+---------
 
-needle
-------
+### needle
 The string to be searched for
 
-replace
--------
+### replace
 The string which replaces the needle string.
 
-haystack
---------
+### haystack
 The string which is searched for the needle string.
 
 
 Usage
-=====
+-----
 
 ````
 npm install --save str-replace-all
