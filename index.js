@@ -5,7 +5,7 @@ var escapeRegexp  = require('escape-string-regexp');
 /**
  * Replaces all occurences of a string in another string.
  * @function
- * @param {string} needle   - The string to be searched.
+ * @param {string} needle   - The string to be searched for.
  * @param {string} replace  - The string which replaces the needle string.
  * @param {string} haystack - The string which is searched for the needle string.
  */
