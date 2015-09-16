@@ -15,7 +15,7 @@ var strReplaceAll = function(needle, replace, haystack) {
   }
   return haystack.replace(
     new RegExp(escapeRegexp(needle), 'g'),
-    replace
+    function() { return replace; } // no need to escape '$' when returned by function
   );
 };
 
