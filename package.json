@@ -1,6 +1,6 @@
 {
   "name": "str-replace-all",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Replaces all occurences of a string in another string.",
   "license": "MIT",
   "repository": "strarsis/str-replace-all",
