@@ -2,6 +2,8 @@ str-replace-all
 ===============
 Replaces all occurences of a string in another string.
 
+[![Build Status](https://travis-ci.org/strarsis/str-replace-all.svg)](https://travis-ci.org/strarsis/str-replace-all)
+
 [![NPM](https://nodei.co/npm/str-replace-all.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/str-replace-all/)
 
 
